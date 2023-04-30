@@ -1,0 +1,4 @@
+main(){
+revnum();
+fact();
+}

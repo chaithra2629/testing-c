@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main()
+fact()
 {
 printf("Welcome to DataFlair tutorials!\n\n");
 int number, iteration;
@@ -16,5 +16,5 @@ factorial = factorial*iteration;
 }
 printf("The factorial of %d is %lu\n", number, factorial);
 }
-return 0;
+//return 0;
 }
